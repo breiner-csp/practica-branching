@@ -1,0 +1,14 @@
+git checkout server-develop
+git pull origin server-develop
+
+git checkout server-testing
+git pull origin server-testing
+
+git checkout main
+git pull origin main
+
+git checkout release-renex
+git pull origin release-renex
+
+git checkout release-consuqr
+git pull origin release-consuqr
